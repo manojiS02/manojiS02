@@ -54,6 +54,6 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj"  />
+<img align="right" height="150" src="https://tenor.com/en-GB/view/bahroo-hacker-panda-hacking-cool-gif-15741061"  />
 
 ###
