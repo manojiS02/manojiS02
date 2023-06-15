@@ -53,6 +53,5 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/en-GB/view/bahroo-hacker-panda-hacking-cool-gif-15741061"  />
 
 ###
