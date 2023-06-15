@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Manoji</h1>
 <h3 align="center">A Student of Graduate Diploma in Software Engineering in IJSE</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethuh&label=Profile%20views&color=0e75b6&style=flat" alt="nethuh" /> </p>
 
 - 🔭 I’m currently studying at *Institute of Java Software Engineering*
 
